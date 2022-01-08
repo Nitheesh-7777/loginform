@@ -1,0 +1,61 @@
+.form
+{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: aquamarine;
+}
+label
+{
+    display: inline-block;
+    width: 50pt;
+    padding: 10pt;
+    color: rgb(218, 11, 11);
+  
+}
+.for
+{
+    padding: 20pt;
+    align-items: center;
+    background-color: aquamarine;
+    border-radius: 8pt;
+    font-weight: bold;
+    opacity: 80%;
+}
+fieldset
+{
+    padding: 7pt;
+    margin-left: 35%;
+    margin-right: 35%;
+    margin-top: 10%;
+    border-radius: 8pt;
+}
+.btn
+{
+    padding: 5pt;
+    border-radius: 5pt;
+    color: darkmagenta;
+    font-weight: bolder;
+    font-size: 10pt;
+}
+input
+{
+    border-radius: 5pt;
+    padding: 3pt;
+}
+body
+{
+    background-image: url(4893694.jpg);
+    background-repeat: no-repeat;
+   background-size: 1367px 650px;
+    
+}
+legend
+{
+    color: blue;
+    font-size: x-large;
+    font-weight: bolder;
+}
+h2
+{
+    font-weight: bold;
+    color:darkmagenta;
+}

@@ -1,0 +1,86 @@
+label
+{
+    display: inline-block;
+    width: 150px;
+    padding: 9pt;
+}
+.btn
+{
+    padding: 10pt;
+    padding-right: 10pt;
+    border-radius: 7pt;
+    font-weight: bolder;
+    color: red;
+    text-decoration: none;
+
+}
+#name, #mail, #password, #confirmpassword
+{
+    border-radius: 4pt;
+    padding: 3pt;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    border-collapse: unset;
+    box-shadow: none;
+    
+}
+body
+{
+    background-image:url(nithi.jpg) ;
+    background-size: 1400px 1050px;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    align-items: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-weight: bold;
+}
+fieldset
+{
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 7%;
+    border-radius: 7pt;
+    padding: 25pt;
+    box-shadow: none;
+    border-width: 1.5pt;
+    border-color: rgb(150, 100, 35);
+   
+}
+.form
+{
+    background-color: rgb(61, 87, 87);
+    color: yellow;
+    padding: 10pt;
+    border-radius: 10pt;
+    opacity: 90%;
+}
+legend
+{
+    color: black;
+    font-size: x-large;
+}
+a, span
+{
+    color: chartreuse;
+    text-decoration: none;
+    font-size: small;
+}
+h2
+{
+    color:indigo;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
